@@ -1,0 +1,20 @@
+{
+  "server": {
+    "basic": {
+      "json": 3,
+      "setting": 2,
+      "run": 3,
+      "readme": 1,
+      "secret": 0,
+      "controller": 1,
+      "router": 1,
+      "model": 2,
+      "docs": 0,
+      "error server": 0,
+      "data": 1,
+      "db": 1,
+      "env": 0,
+      "git": 1
+    }
+  }
+}
