@@ -2,18 +2,18 @@
   "server": {
     "basic": {
       "json": 3,
-      "setting": 2,
-      "run": 3,
+      "setting": 1,
+      "run": 1,
       "readme": 1,
       "secret": 0,
       "controller": 1,
-      "router": 1,
-      "model": 2,
+      "router": 0,
+      "model": 1,
       "docs": 0,
       "error server": 0,
       "data": 1,
       "db": 1,
-      "env": 0,
+      "env": 1,
       "git": 1
     }
   }
